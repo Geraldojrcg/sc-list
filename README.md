@@ -96,7 +96,7 @@ A simple example is demonstred below.
 For more details access [online reference](http://en.cppreference.com/w/cpp/container/list)
 
 ```cpp
-#include "../include/vector.h"
+#include "../include/list.hpp"
 int main(){
 	sc::list<char> a = {1, 2, 3, 4};
 
